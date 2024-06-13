@@ -1,0 +1,19 @@
+#version 330 core
+
+out vec4 color;
+
+in vec3 vertexColor;
+in vec3 vertexNormal;
+in vec3 lightDirection;
+
+uniform float bright;
+
+void main() {
+	vec3 lightColor = vec3(1, 1, 1);
+	vec3 normalVector = normalize(vertexNormal);
+	vec3 lightVector = normalize(lightDirection);
+	float dotProduct = dot(normalVector, lightVector);
+	float brightness = max(dotProduct, 0.0) + bright;
+	vec3 diffuse = brightness * lightColor;
+	color = vec4(diffuse, 1.0) * vec4(vertexColor, 1.0);
+}

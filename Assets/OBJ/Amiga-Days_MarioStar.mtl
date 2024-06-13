@@ -1,0 +1,3553 @@
+newmtl Default
+Kd 0.988 0.925 0.011
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl inttetine
+Kd 0.988 0.925 0.011
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl tetine
+Kd 0.988 0.925 0.011
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0.4
+d 0.6
+Ni 1
+Tf 0 0 0
+
+newmtl black
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl bras
+Kd 0.988 0.925 0.011
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl col
+Kd 1 1 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl col_costume
+Kd 0.988 0.925 0.011
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl cot�costume
+Kd 0.988 0.925 0.011
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl cravatte
+Kd 0 0 0.341176
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl int_chemise
+Kd 1 1 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl noeud_cravatte
+Kd 0 0 0.341176
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl bat8
+Kd 1 1 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl bat7
+Kd 0.137255 0.027451 0.360784
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl bat6
+Kd 0.988 0.925 0.011
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Astro
+Kd 1 1 1
+Ke 0.34375 0.34375 0.34375
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Casque
+Kd 1 0.792157 0.203922
+Ke 0 0 0
+Ka 0.0546875 0.0546875 0.0546875
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Beton
+Kd 0.392157 0.392157 0.392157
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl BouchesAeration
+Kd 0.564706 0.596078 0.619608
+Ke 0 0 0
+Ka 0 0 0
+Ks 0.578125 0.578125 0.578125
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Cotes
+Kd 0 0 0
+Ke 0 0 0
+Ka 0.144531 0.144531 0.144531
+Ks 0.949219 0.949219 0.949219
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl CotesTentures
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Derriere
+Kd 0 0 0
+Ke 0 0 0
+Ka 0.144531 0.144531 0.144531
+Ks 0.949219 0.949219 0.949219
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Dessus
+Kd 0.235294 0.235294 0.235294
+Ke 0 0 0
+Ka 0.496094 0.496094 0.496094
+Ks 0.195313 0.195313 0.195313
+Ns 800
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl DessusTenture
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Devant
+Kd 0 0 0
+Ke 0 0 0
+Ka 0.144531 0.144531 0.144531
+Ks 0.949219 0.949219 0.949219
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl DevantTenture
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Entree
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl PiquetsEntree
+Kd 0.698039 0.376471 0.427451
+Ke 0 0 0
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Porte
+Kd 0.352941 0.156863 0.0784314
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.5 0.5 0.5
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Sol
+Kd 0.235294 0.235294 0.235294
+Ke 0 0 0
+Ka 0.496094 0.496094 0.496094
+Ks 0.195313 0.195313 0.195313
+Ns 800
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Files
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Nails
+Kd 0.901961 0.705882 0.509804
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Skin
+Kd 0.784314 0.588235 0.392157
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl VertiSketch
+Kd 0.0784314 0.0784314 0.0784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl VertiSketch-tri
+Kd 0.392157 0.588235 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl oeil
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl star
+Kd 0.988 0.925 0.011
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.6 0.6 0.6
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Dauphin
+Kd 0.0784314 0.313726 0.392157
+Ke 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bouche
+Kd 0.266667 0.333333 0.396078
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.199219 0.199219 0.199219
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Dauphin
+Kd 0.376471 0.509804 0.639216
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.753906 0.753906 0.753906
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Eyes
+Kd 0.2 0.333333 0.419608
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.199219 0.199219 0.199219
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bouche
+Kd 0.266667 0.333333 0.396078
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.199219 0.199219 0.199219
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Dauphin
+Kd 0.376471 0.509804 0.639216
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.753906 0.753906 0.753906
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Eyes
+Kd 0.2 0.333333 0.419608
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.199219 0.199219 0.199219
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bouche
+Kd 0.266667 0.333333 0.396078
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.199219 0.199219 0.199219
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Dauphin
+Kd 0.376471 0.509804 0.639216
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.199219 0.199219 0.199219
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Eyes
+Kd 0.2 0.333333 0.419608
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.199219 0.199219 0.199219
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bouche
+Kd 0.266667 0.333333 0.396078
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.199219 0.199219 0.199219
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Dauphin
+Kd 0.376471 0.509804 0.639216
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.753906 0.753906 0.753906
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Eyes
+Kd 0.2 0.333333 0.419608
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.199219 0.199219 0.199219
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Boule
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 0.0117188 0.0117188 0.0117188
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl SeaFight
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 0.0117188 0.0117188 0.0117188
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Eye
+Kd 1 1 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 1 1 0.666667
+Ke 0.4 0.4 0.4
+Ka 0.9 0.9 0.9
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Maison
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Toit
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl ToitToit
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Saphir
+Kd 0 0.54902 0.784314
+Ke 0 0 0
+Ka 0 0 0
+Ks 1 1 1
+Ns 800
+Tr 0.949219
+d 0.0507813
+Ni 1.9
+Tf 1 1 1
+
+newmtl Ailes
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Cabine
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Carlingue
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Queue
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl stencil
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Tete
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl AileBD
+Kd 0 0.682353 0.290196
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.695313 0.695313 0.695313
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl AileBG
+Kd 0 0.682353 0.290196
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.699219 0.699219 0.699219
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl AileHD
+Kd 0 0.682353 0.290196
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.699219 0.699219 0.699219
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl AileHG
+Kd 0 0.682353 0.290196
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.699219 0.699219 0.699219
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Carcasse
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 0.300781 0.300781 0.300781
+Ks 1 1 1
+Ns 800
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Cockpit
+Kd 0 0.34902 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 800
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Turbines
+Kd 1 1 0
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.800781 0.800781 0.800781
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Etoile
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl basfond
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl escalier
+Kd 0.392157 0.392157 0.392157
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.898438 0.898438 0.898438
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl fond
+Kd 1 1 1
+Ke 0.503906 0.503906 0.503906
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl murs
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl sol
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.300781 0.300781 0.300781
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl points
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Torpille
+Kd 0.862745 0.901961 0.941177
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl arri?e
+Kd 0.541176 0.745098 1
+Ke 0 0 0
+Ka 0.496094 0.496094 0.496094
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl avant
+Kd 0.541176 0.745098 1
+Ke 0 0 0
+Ka 0.496094 0.496094 0.496094
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Barri?e
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl B?on_autour_portes_entr?
+Kd 0.529412 0.529412 0.529412
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.300781 0.300781 0.300781
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Cage_Ascenseur_arri?e
+Kd 0.403922 0.27451 0.2
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Cage_Ascenseur_avant
+Kd 0.403922 0.27451 0.2
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Cage_Ascenseur_droite
+Kd 0.403922 0.27451 0.2
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Cage_Ascenseur_gauche
+Kd 0.403922 0.27451 0.2
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Cage_Ascenseur_int?ieur
+Kd 0.341176 0.223529 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Creux_b?on
+Kd 0.529412 0.529412 0.529412
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.300781 0.300781 0.300781
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Creux_d?o
+Kd 0.529412 0.529412 0.529412
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.300781 0.300781 0.300781
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl dernier_?age_arri?e
+Kd 0.403922 0.27451 0.2
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl dernier_?age_avant
+Kd 0.403922 0.27451 0.2
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl dernier_?age_droite
+Kd 0.403922 0.27451 0.2
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl dernier_?age_gauche
+Kd 0.403922 0.27451 0.2
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl droite
+Kd 0.541176 0.745098 1
+Ke 0 0 0
+Ka 0.496094 0.496094 0.496094
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Encadre_porte
+Kd 0.529412 0.529412 0.529412
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.300781 0.300781 0.300781
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Entr?
+Kd 0.529412 0.529412 0.529412
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.300781 0.300781 0.300781
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl gauche
+Kd 0.541176 0.745098 1
+Ke 0 0 0
+Ka 0.496094 0.496094 0.496094
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Hall_entr?
+Kd 0.54902 0.815686 1
+Ke 0 0 0
+Ka 0.601563 0.601563 0.601563
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Heliport
+Kd 1 1 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Poign?
+Kd 0.862745 0.901961 0.941177
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Portes
+Kd 1 1 0.862745
+Ke 0 0 0
+Ka 0.976563 0.976563 0.976563
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl porte
+Kd 0.541176 0.745098 1
+Ke 0 0 0
+Ka 0.496094 0.496094 0.496094
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Triangles_b?on
+Kd 0.529412 0.529412 0.529412
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.300781 0.300781 0.300781
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl toit
+Kd 0.529412 0.529412 0.529412
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.300781 0.300781 0.300781
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Vitres
+Kd 0.541176 0.745098 1
+Ke 0 0 0
+Ka 0.496094 0.496094 0.496094
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bois_Batiment
+Kd 0.882353 0.796079 0.658824
+Ke 0 0 0
+Ka 0.945313 0.945313 0.945313
+Ks 0.5 0.5 0.5
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bord_Fenetre
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl BordToit
+Kd 0.898039 0.901961 1
+Ke 0 0 0
+Ka 0.976563 0.976563 0.976563
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Cheminee
+Kd 0.784314 0.678431 0.541176
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.5 0.5 0.5
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Contour_Fenetre
+Kd 0.898039 0.901961 1
+Ke 0 0 0
+Ka 0.976563 0.976563 0.976563
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Deco
+Kd 0.898039 0.901961 1
+Ke 0 0 0
+Ka 0.98 0.98 0.98
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Fenetre
+Kd 0.364706 0.282353 0.207843
+Ke 0 0 0
+Ka 0.699219 0.699219 0.699219
+Ks 0.5 0.5 0.5
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Fleche
+Kd 0.278431 0.486275 0.627451
+Ke 0 0 0
+Ka 0.503906 0.503906 0.503906
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Porte
+Kd 0.32549 0.282353 0.207843
+Ke 0 0 0
+Ka 0.699219 0.699219 0.699219
+Ks 0.5 0.5 0.5
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Toit
+Kd 0.231373 0.360784 0.521569
+Ke 0 0 0
+Ka 0.898438 0.898438 0.898438
+Ks 0.699219 0.699219 0.699219
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Abajour
+Kd 1 1 0.658824
+Ke 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0.605469
+d 0.394531
+Ni 1
+Tf 0 0 0
+
+newmtl Barres_Vitres
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 0.398438 0.398438 0.398438
+Ks 0.398438 0.398438 0.398438
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Comptoir
+Kd 0.352941 0.156863 0.0784314
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.5 0.5 0.5
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 1 0 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Dessus_Comptoir
+Kd 0.196078 0.196078 0.196078
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.898438 0.898438 0.898438
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Entr?
+Kd 1 1 0.862745
+Ke 0 0 0
+Ka 0.976563 0.976563 0.976563
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Etag?e
+Kd 0.352941 0.156863 0.0784314
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.5 0.5 0.5
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Etoile
+Kd 1 1 1
+Ke 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Fauteuil
+Kd 0.196078 0.392157 0.392157
+Ke 0 0 0
+Ka 0.695313 0.695313 0.695313
+Ks 0.605469 0.605469 0.605469
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Le_Caf�
+Kd 0.352941 1 0.352941
+Ke 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Le_Caf�(obscur)
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Marches_Escalier
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Miroir
+Kd 0 0 0
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Mur
+Kd 1 1 0.862745
+Ke 0 0 0
+Ka 0.976563 0.976563 0.976563
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Pied_lampe
+Kd 0.941177 0.666667 0.156863
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Pieds_Fauteuil
+Kd 0.352941 0.156863 0.0784314
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.5 0.5 0.5
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Pieds_Table
+Kd 0.862745 0.901961 0.941177
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Plafond_Bas
+Kd 1 1 0.862745
+Ke 0 0 0
+Ka 0.976563 0.976563 0.976563
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Plafond_Haut
+Kd 1 1 0.862745
+Ke 0 0 0
+Ka 0.976563 0.976563 0.976563
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Planchers
+Kd 0.862745 0.862745 0.862745
+Ke 0 0 0
+Ka 0.402344 0.402344 0.402344
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Poign?_Porte
+Kd 0.862745 0.901961 0.941177
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Poteau
+Kd 0.862745 0.862745 0.862745
+Ke 0 0 0
+Ka 0.402344 0.402344 0.402344
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Poteau_Escalier
+Kd 1 1 0.862745
+Ke 0 0 0
+Ka 0.976563 0.976563 0.976563
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Queue_Etoile
+Kd 1 1 0
+Ke 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Rampe_Escalier
+Kd 1 1 0.862745
+Ke 0 0 0
+Ka 0.976563 0.976563 0.976563
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Sol_Bas
+Kd 0.705882 0.470588 0.313726
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Sol_Haut
+Kd 0.705882 0.470588 0.313726
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Soutien_Le_Caf�
+Kd 0 0 0
+Ke 0 0 0
+Ka 0 0 0
+Ks 0.300781 0.300781 0.300781
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Table
+Kd 0.945098 0.839216 0.65098
+Ke 0 0 0
+Ka 0.996094 0.996094 0.996094
+Ks 0.996094 0.996094 0.996094
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Toit
+Kd 0.862745 0.862745 0.862745
+Ke 0 0 0
+Ka 0.402344 0.402344 0.402344
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Vitres
+Kd 0.454902 0.278431 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 800
+Tr 0.699219
+d 0.300781
+Ni 1.3
+Tf 0 0 0
+
+newmtl Etoile
+Kd 1 1 1
+Ke 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Le_Caf�
+Kd 0.352941 1 0.352941
+Ke 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Le_Caf�(obscur)
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Queue_Etoile
+Kd 1 1 0
+Ke 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Soutien_Le_Caf�
+Kd 0 0 0
+Ke 0 0 0
+Ka 0 0 0
+Ks 0.300781 0.300781 0.300781
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Entr?
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Poign?_Porte
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Vitres
+Kd 0.454902 0.278431 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 800
+Tr 0.699219
+d 0.300781
+Ni 1.3
+Tf 0 0 0
+
+newmtl Abajour
+Kd 1 1 0.658824
+Ke 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0.605469
+d 0.394531
+Ni 1
+Tf 0 0 0
+
+newmtl Default
+Kd 1 0 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Fauteuil
+Kd 0.196078 0.392157 0.392157
+Ke 0 0 0
+Ka 0.695313 0.695313 0.695313
+Ks 0.605469 0.605469 0.605469
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Pied_lampe
+Kd 0.941177 0.666667 0.156863
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Pieds_Fauteuil
+Kd 0.352941 0.156863 0.0784314
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.5 0.5 0.5
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Pieds_Table
+Kd 0.862745 0.901961 0.941177
+Ke 0 0 0
+Ka 0 0 0
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Table
+Kd 0.945098 0.839216 0.65098
+Ke 0 0 0
+Ka 0.996094 0.996094 0.996094
+Ks 0.996094 0.996094 0.996094
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl bordsToit
+Kd 0.862745 0.862745 0.862745
+Ke 0 0 0
+Ka 0.402344 0.402344 0.402344
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl chemin?
+Kd 0.862745 0.862745 0.862745
+Ke 0 0 0
+Ka 0.402344 0.402344 0.402344
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Encadre_porte
+Kd 0.352941 0.156863 0.0784314
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.5 0.5 0.5
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl encadre_vitrine
+Kd 0.352941 0.156863 0.0784314
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.5 0.5 0.5
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl murs
+Kd 0.862745 0.862745 0.862745
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl paravent
+Kd 1 1 0.556863
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.601563 0.601563 0.601563
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl paravent_pancarte
+Kd 0.529412 0 0
+Ke 0 0 0
+Ka 0.996094 0.996094 0.996094
+Ks 0.601563 0.601563 0.601563
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl porte
+Kd 0.352941 0.156863 0.0784314
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.5 0.5 0.5
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Toit
+Kd 0.901961 0.470588 0.0392157
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl vitre
+Kd 0.541176 0.745098 1
+Ke 0 0 0
+Ka 0.496094 0.496094 0.496094
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl vitre_porte
+Kd 0.541176 0.745098 1
+Ke 0 0 0
+Ka 0.496094 0.496094 0.496094
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl vitrine
+Kd 0.541176 0.745098 1
+Ke 0 0 0
+Ka 0.496094 0.496094 0.496094
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl chaise
+Kd 0.352941 0.156863 0.0784314
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.5 0.5 0.5
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl chaise_dessus
+Kd 0.196078 0.392157 0.392157
+Ke 0 0 0
+Ka 0.695313 0.695313 0.695313
+Ks 0.605469 0.605469 0.605469
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl chaise_pieds
+Kd 0.352941 0.156863 0.0784314
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.5 0.5 0.5
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bat1_murs
+Kd 1 1 0.941177
+Ke 0.2 0.2 0.2
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bat1_Porte
+Kd 0 0.262745 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.6 0.6 0.6
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bat1_Vitres
+Kd 0 0.501961 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bat2_Murs
+Kd 1 1 0.941177
+Ke 0.2 0.2 0.2
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bat2_Porte
+Kd 0 0.262745 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.6 0.6 0.6
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bat2_Vitres
+Kd 1 1 0.941177
+Ke 0 0 0
+Ka 0.4 0.4 0.4
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bat3_murs
+Kd 1 1 0.941177
+Ke 0.2 0.2 0.2
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bat4_Decor_vitres
+Kd 0 0.262745 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.6 0.6 0.6
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bat4_murs
+Kd 1 1 0.941177
+Ke 0.2 0.2 0.2
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bat4_Portes
+Kd 0 0.501961 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bat4_vitres
+Kd 0 0.501961 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bat5_murs
+Kd 1 1 0.941177
+Ke 0.2 0.2 0.2
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bat5_vitres
+Kd 0 0.501961 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bat6_murs
+Kd 1 1 0.941177
+Ke 0.2 0.2 0.2
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bat6_vitres
+Kd 0 0.501961 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Esplanade_bat1
+Kd 1 1 0.941177
+Ke 0.2 0.2 0.2
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Esplanade_bat2
+Kd 1 1 0.941177
+Ke 0.2 0.2 0.2
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Esplanade_bat3
+Kd 1 1 0.941177
+Ke 0.2 0.2 0.2
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Esplanade_Escalier
+Kd 1 1 0.941177
+Ke 0.2 0.2 0.2
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Grand_Escalier
+Kd 1 1 0.941177
+Ke 0.2 0.2 0.2
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Mur_bassins
+Kd 1 1 0.941177
+Ke 0.2 0.2 0.2
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Petit_canal
+Kd 1 1 0.941177
+Ke 0.2 0.2 0.2
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Socle
+Kd 1 1 0.941177
+Ke 0.2 0.2 0.2
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Sol
+Kd 1 1 0.941177
+Ke 0.2 0.2 0.2
+Ka 1 1 1
+Ks 0.3 0.3 0.3
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Surface_eau
+Kd 0.772549 0.882353 1
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 1 1 1
+Ns 200
+Tr 0.909
+d 0.0909999
+Ni 1.33
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Grand_Escalier
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Corbeaux
+Kd 0.866667 0.709804 0.596078
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Courtine
+Kd 0.866667 0.709804 0.596078
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Croix
+Kd 0.0392157 0.0392157 0.0392157
+Ke 0 0 0
+Ka 0.300781 0.300781 0.300781
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Mur_Frontal
+Kd 0.866667 0.709804 0.596078
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Pierre
+Kd 0.866667 0.709804 0.596078
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Toit
+Kd 0 0 0.109804
+Ke 0 0 0
+Ka 0.300781 0.300781 0.300781
+Ks 0.300781 0.300781 0.300781
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Tour
+Kd 0.866667 0.709804 0.596078
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Corbeaux
+Kd 0.866667 0.709804 0.596078
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Croix
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.300781 0.300781 0.300781
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Mur_Frontal
+Kd 0.866667 0.709804 0.596078
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Pierre
+Kd 0.866667 0.709804 0.596078
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Toit
+Kd 0 0 0.109804
+Ke 0 0 0
+Ka 0.300781 0.300781 0.300781
+Ks 0.300781 0.300781 0.300781
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl tour
+Kd 0.866667 0.709804 0.596078
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Carreaux
+Kd 1 1 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.796875 0.796875 0.796875
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Carrelage
+Kd 1 1 0.941177
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.695313 0.695313 0.695313
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Plafond
+Kd 1 1 0.886275
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Robinet
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl CacheLampe
+Kd 0.0784314 0.0784314 0.0784314
+Ke 0 0 0
+Ka 0.300781 0.300781 0.300781
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Decoration
+Kd 1 1 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0 1 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl devant
+Kd 0.352941 0.156863 0.0784314
+Ke 0 0 0
+Ka 0.800781 0.800781 0.800781
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl devanture
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Inter_droit
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Inter_fond
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Inter_gauche
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl murs
+Kd 0.352941 0.156863 0.0784314
+Ke 0 0 0
+Ka 0.800781 0.800781 0.800781
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Paravent
+Kd 0 0.4 0
+Ke 0 0 0
+Ka 0.601563 0.601563 0.601563
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl panneau
+Kd 0 0.4 0
+Ke 0 0 0
+Ka 0.601563 0.601563 0.601563
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl plafond
+Kd 0.352941 0.156863 0.0784314
+Ke 0 0 0
+Ka 0.800781 0.800781 0.800781
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl abajour
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 0.0507813 0.0507813 0.0507813
+Ks 0.894531 0.894531 0.894531
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl pilone
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 0.0546875 0.0546875 0.0546875
+Ks 0.898438 0.898438 0.898438
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Batiment
+Kd 1 0.984314 0.933333
+Ke 0 0 0
+Ka 0.59375 0.59375 0.59375
+Ks 0.695313 0.695313 0.695313
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl BatimentSmooth
+Kd 1 0.984314 0.933333
+Ke 0 0 0
+Ka 0.601563 0.601563 0.601563
+Ks 0.695313 0.695313 0.695313
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl BrasCoupole
+Kd 0.0784314 0.0784314 0.0784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl CadreFenetre
+Kd 1 1 0.862745
+Ke 0 0 0
+Ka 0.976563 0.976563 0.976563
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Colonne
+Kd 1 0.984314 0.933333
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.695313 0.695313 0.695313
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl ColonneBloc
+Kd 1 0.984314 0.933333
+Ke 0 0 0
+Ka 0.699219 0.699219 0.699219
+Ks 0.695313 0.695313 0.695313
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl ColonneNonSmooth
+Kd 1 0.984314 0.933333
+Ke 0 0 0
+Ka 0.695313 0.695313 0.695313
+Ks 0.695313 0.695313 0.695313
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Coupole
+Kd 0.541176 0.745098 1
+Ke 0 0 0
+Ka 0.496094 0.496094 0.496094
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl DecorArche
+Kd 1 0.984314 0.933333
+Ke 0 0 0
+Ka 0.59375 0.59375 0.59375
+Ks 0.695313 0.695313 0.695313
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl DecorationTop
+Kd 1 0.984314 0.933333
+Ke 0 0 0
+Ka 0.59375 0.59375 0.59375
+Ks 0.695313 0.695313 0.695313
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Escalier
+Kd 1 0.984314 0.933333
+Ke 0 0 0
+Ka 0.605469 0.605469 0.605469
+Ks 0.695313 0.695313 0.695313
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Fa?de
+Kd 1 0.984314 0.933333
+Ke 0 0 0
+Ka 0.59375 0.59375 0.59375
+Ks 0.695313 0.695313 0.695313
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Porte
+Kd 0.352941 0.156863 0.0784314
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.5 0.5 0.5
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Vitre
+Kd 0.541176 0.745098 1
+Ke 0 0 0
+Ka 0.496094 0.496094 0.496094
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Batiment
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl BatimentSmooth
+Kd 0.784 0.784 0.784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Colonne
+Kd 1 0.984314 0.933333
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.695313 0.695313 0.695313
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl ColonneBloc
+Kd 1 0.984314 0.933333
+Ke 0 0 0
+Ka 0.699219 0.699219 0.699219
+Ks 0.695313 0.695313 0.695313
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl ColonneNonSmooth
+Kd 1 0.984314 0.933333
+Ke 0 0 0
+Ka 0.695313 0.695313 0.695313
+Ks 0.695313 0.695313 0.695313
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Affichage
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bords
+Kd 1 1 1
+Ke 0 0 0
+Ka 0.820313 0.820313 0.820313
+Ks 0.300781 0.300781 0.300781
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Info1
+Kd 1 1 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Info2
+Kd 1 1 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Pied
+Kd 1 1 1
+Ke 0 0 0
+Ka 0.820313 0.820313 0.820313
+Ks 0.300781 0.300781 0.300781
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Ville_de
+Kd 1 1 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Corps
+Kd 0 0.188235 0.345098
+Ke 0 0 0
+Ka 0.148438 0.148438 0.148438
+Ks 0.398438 0.398438 0.398438
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Jointure
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Reacteurs
+Kd 1 0.854902 0
+Ke 1 1 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl bomb
+Kd 1 1 1
+Ke 0 0 0
+Ka 0.82 0.82 0.82
+Ks 0.3 0.3 0.3
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl bords_panneau
+Kd 1 1 1
+Ke 0 0 0
+Ka 0.82 0.82 0.82
+Ks 0.3 0.3 0.3
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Decks
+Kd 1 1 1
+Ke 0 0 0
+Ka 0.82 0.82 0.82
+Ks 0.3 0.3 0.3
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.866667 0.847059 0.784314
+Ke 0 0 0
+Ka 0.82 0.82 0.82
+Ks 0.3 0.3 0.3
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl D?o
+Kd 0.215686 0.384314 0.615686
+Ke 0 0 0
+Ka 0.82 0.82 0.82
+Ks 0.3 0.3 0.3
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl D?e
+Kd 0 0.580392 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 800
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl d?otoit
+Kd 0.215686 0.384314 0.615686
+Ke 0 0 0
+Ka 0.82 0.82 0.82
+Ks 0.3 0.3 0.3
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Energy_area
+Kd 1 1 1
+Ke 0 0 0
+Ka 0.82 0.82 0.82
+Ks 0.3 0.3 0.3
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Fen?res
+Kd 1 1 0.619608
+Ke 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Main_deck
+Kd 1 1 1
+Ke 0 0 0
+Ka 0.82 0.82 0.82
+Ks 0.3 0.3 0.3
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Porte-d?o
+Kd 0.215686 0.384314 0.615686
+Ke 0 0 0
+Ka 0.82 0.82 0.82
+Ks 0.3 0.3 0.3
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl panneau
+Kd 0.941177 0.666667 0.156863
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl rebords
+Kd 0.215686 0.384314 0.615686
+Ke 0 0 0
+Ka 0.82 0.82 0.82
+Ks 0.3 0.3 0.3
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Space_connection_module
+Kd 1 1 1
+Ke 0 0 0
+Ka 0.82 0.82 0.82
+Ks 0.3 0.3 0.3
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Structure_d?e
+Kd 1 1 1
+Ke 0 0 0
+Ka 0.82 0.82 0.82
+Ks 0.3 0.3 0.3
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl toit
+Kd 0.215686 0.384314 0.615686
+Ke 0 0 0
+Ka 0.82 0.82 0.82
+Ks 0.3 0.3 0.3
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl PorscheBody
+Kd 0.235294 0.235294 0.235294
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.601563 0.601563 0.601563
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl PorscheFlexAreas
+Kd 0.0784314 0.0784314 0.0784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.199219 0.199219 0.199219
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl PorscheGlass
+Kd 0.392157 0.392157 0.392157
+Ke 0 0 0
+Ka 0.199219 0.199219 0.199219
+Ks 0.800781 0.800781 0.800781
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl PorscheHeadlights
+Kd 0.823529 0.784314 0.627451
+Ke 0 0 0
+Ka 0 0 0
+Ks 0.398438 0.398438 0.398438
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl PorscheMirrors
+Kd 0.235294 0.235294 0.235294
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.601563 0.601563 0.601563
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl PorscheParkingLights
+Kd 0.705882 0.392157 0.0784314
+Ke 0 0 0
+Ka 0 0 0
+Ks 0.398438 0.398438 0.398438
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl PorscheRainGutters
+Kd 0.235294 0.235294 0.235294
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.601563 0.601563 0.601563
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl PorscheTaillights
+Kd 0.705882 0.0784314 0.0784314
+Ke 0 0 0
+Ka 0.800781 0.800781 0.800781
+Ks 0.398438 0.398438 0.398438
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl PorscheTires
+Kd 0.117647 0.117647 0.117647
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.199219 0.199219 0.199219
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl PorscheTrim
+Kd 0.0784314 0.0784314 0.0784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.199219 0.199219 0.199219
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl PorscheUnderside
+Kd 0.0784314 0.0784314 0.0784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl PorscheWheelCenters
+Kd 0.0784314 0.0784314 0.0784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.199219 0.199219 0.199219
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl PorscheWheelRims
+Kd 0.470588 0.470588 0.470588
+Ke 0 0 0
+Ka 0.601563 0.601563 0.601563
+Ks 0.800781 0.800781 0.800781
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Ball
+Kd 1 0.501961 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl 1
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Roof
+Kd 0.752941 0.752941 0.752941
+Ke 0 0 0
+Ka 0.85 0.85 0.85
+Ks 0.3 0.3 0.3
+Ns 90
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Walls
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 29
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl corps
+Kd 0.878431 0.921569 0.905882
+Ke 0 0 0
+Ka 0.75 0.75 0.75
+Ks 0.345 0.345 0.345
+Ns 540
+Tr 0
+d 1
+Ni 1
+Tf 0 0 0
+
+newmtl corps2
+Kd 0.878431 0.921569 0.905882
+Ke 0.5 0.5 0.5
+Ka 0.1 0.1 0.1
+Ks 0.345 0.345 0.345
+Ns 540
+Tr 0.8
+d 0.2
+Ni 1.3
+Tf 0 0 0
+
+newmtl nageoires
+Kd 0 0 0
+Ke 0 0 0
+Ka 0.755 0.755 0.755
+Ks 0.17 0.17 0.17
+Ns 70
+Tr 0
+d 1
+Ni 1
+Tf 0 0 0
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl oeil
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl star
+Kd 0.988 0.925 0.011
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.6 0.6 0.6
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
